@@ -10,8 +10,7 @@
 
 - **GitHub 最新正式版（3.1.44）**：[前往 Releases 下载](https://github.com/valeriobarbie759-ctrl/AI-Chat-Flow/releases/tag/v3.1.44)
 - **ScriptCat 脚本猫（持续更新）**：[前往脚本猫安装](https://scriptcat.org/zh-CN/script-show-page/7424)
-- **123 云盘完整安装包**：[点击下载](『来自123云盘用户的分享』
-链接：https://1855762805.share.123pan.cn/123pan/EKOOvd-OP2x3?pwd=f8Xw#)（提取码：`f8Xw`）
+- **123 云盘完整安装包**：[点击下载](『来自123云盘用户的分享』链接：https://1855762805.share.123pan.cn/123pan/EKOOvd-OP2x3?pwd=f8Xw#)（提取码：`f8Xw`）
 - **B 站视频教程**：[AI 对话流转 3.1 使用介绍](https://www.bilibili.com/video/BV1ahHS6DE6V/)
 
 ### 运行版与注释版
