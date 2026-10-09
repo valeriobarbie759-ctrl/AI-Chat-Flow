@@ -4,13 +4,33 @@
 
 它不是一次性下载聊天记录。建立本地资料库后，可以持续同步新增或发生变化的 Conversation，减少重复保存。
 
-**当前版本：3.1.44**
+**当前版本：3.1.56**
+
+## 🆕 当前版本更新
+
+### 3.1.56 修复补丁
+
+本版本为 3.1.44 发布后的稳定性修复版本。
+
+主要修复：
+
+- 修复完整保存过程中 `classificationResolverForIo is not defined` 导致保存失败的问题。
+- 修复快速目录缓存恢复时分页状态丢失的问题，避免部分情况下只能显示最近一批对话。
+- 优化分类解析入口，降低后续维护风险。
+
+说明：
+
+- 不改变已有资料库结构。
+- 不影响已经保存的数据。
+- 3.1.44 用户建议更新到 3.1.56。
+
+---
 
 ## 下载与安装
 
-- **GitHub 最新正式版（3.1.44）**：[前往 Releases 下载](https://github.com/valeriobarbie759-ctrl/AI-Chat-Flow/releases/tag/v3.1.44)
+- **GitHub 最新正式版（3.1.56）**：[前往 Releases 下载](https://github.com/valeriobarbie759-ctrl/AI-Chat-Flow/releases/tag/v3.1.56)
 - **ScriptCat 脚本猫（持续更新）**：[前往脚本猫安装](https://scriptcat.org/zh-CN/script-show-page/7424)
-- **123 云盘完整安装包**：[点击下载](『来自123云盘用户的分享』链接：https://1855762805.share.123pan.cn/123pan/EKOOvd-OP2x3?pwd=f8Xw#)（提取码：`f8Xw`）
+- **123 云盘完整安装包**：[点击下载](https://1855762805.share.123pan.cn/123pan/EKOOvd-OP2x3?pwd=f8Xw)（提取码：`f8Xw`）
 - **B 站视频教程**：[AI 对话流转 3.1 使用介绍](https://www.bilibili.com/video/BV1ahHS6DE6V/)
 
 ### 运行版与注释版
@@ -82,6 +102,8 @@
 ## 历史版本
 
 由于原 GitHub 账号已经无法继续使用，本仓库从 3.1.44 开始发布。
+
+当前仓库负责后续版本维护。
 
 如果需要旧版 2.9.85，可以前往：
 
